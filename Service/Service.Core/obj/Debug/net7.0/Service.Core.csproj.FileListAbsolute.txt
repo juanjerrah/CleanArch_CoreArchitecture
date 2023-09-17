@@ -1,0 +1,5 @@
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.csproj.AssemblyReference.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.AssemblyInfoInputs.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.AssemblyInfo.cs
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.csproj.CoreCompileInputs.cache
