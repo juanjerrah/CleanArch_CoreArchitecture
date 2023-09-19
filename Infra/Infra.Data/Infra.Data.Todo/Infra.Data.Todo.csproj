@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Domain\Domain.Todo\Domain.Todo.csproj" />
+      <ProjectReference Include="..\Infra.Data.Core\Infra.Data.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="Config\appsettings.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+            <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        </None>
+        <None Update="Config\appsettings.Development.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+            <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        </None>
+    </ItemGroup>
+
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+        <ItemGroup>
+            <SourceConfig Include="../../../Config/*.json" />
+        </ItemGroup>
+
+        <Copy SourceFiles="@(SourceConfig)" DestinationFolder="./Config" SkipUnchangedFiles="true" />
+    </Target>
+
+
+
+</Project>

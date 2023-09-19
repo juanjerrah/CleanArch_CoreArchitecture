@@ -9,7 +9,7 @@ namespace Infra.Ioc.Core;
 
 public class DependencyInjection
 {
-    public static IServiceCollection AddCoreServices(IServiceCollection services)
+    public static IServiceCollection AddServices(IServiceCollection services)
     {
         services.AddScoped<IBus, Bus>();
         services.AddScoped<ISecurity, SecurityService>();

@@ -1,0 +1,15 @@
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\bin\Debug\net7.0\Domain.Todo.deps.json
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\bin\Debug\net7.0\Domain.Todo.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\bin\Debug\net7.0\Domain.Todo.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\bin\Debug\net7.0\Domain.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\bin\Debug\net7.0\Domain.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.csproj.AssemblyReference.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.AssemblyInfoInputs.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.AssemblyInfo.cs
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.csproj.CoreCompileInputs.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.csproj.CopyComplete
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\refint\Domain.Todo.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\Domain.Todo.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Domain\Domain.Todo\obj\Debug\net7.0\ref\Domain.Todo.dll

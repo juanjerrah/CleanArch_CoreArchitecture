@@ -3,3 +3,14 @@ C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.
 C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.AssemblyInfoInputs.cache
 C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.AssemblyInfo.cs
 C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.csproj.CoreCompileInputs.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\bin\Debug\net7.0\Service.Core.deps.json
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\bin\Debug\net7.0\Service.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\bin\Debug\net7.0\Service.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\bin\Debug\net7.0\Domain.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\bin\Debug\net7.0\Domain.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.csproj.CopyComplete
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\refint\Service.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\Service.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\obj\Debug\net7.0\ref\Service.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Service\Service.Core\bin\Debug\net7.0\Config\appsettings.json

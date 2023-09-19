@@ -1,0 +1,15 @@
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\bin\Debug\net7.0\Application.Core.deps.json
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\bin\Debug\net7.0\Application.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\bin\Debug\net7.0\Application.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\bin\Debug\net7.0\Domain.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\bin\Debug\net7.0\Domain.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.AssemblyInfo.cs
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.csproj.CopyComplete
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\refint\Application.Core.dll
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\Application.Core.pdb
+C:\Users\zecau\RiderProjects\CleanArch_Core\Application\Application.Core\obj\Debug\net7.0\ref\Application.Core.dll
